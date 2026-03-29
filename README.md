@@ -1,4 +1,8 @@
 # Study Abroad Analytics : Indian Student Dashboard
+
+## Live Dashboard
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://indian-student-abroad-analytics.streamlit.app/)
+
 ## Project Overview
 - A Streamlit dashboard which showcases the Indian student outflow trend across various countries in the span of 5 years, (2018 - 2022).
 
